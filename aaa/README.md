@@ -22,4 +22,4 @@ C file produced from the visual project
 
 ## Robot in action!
 
-[Video link](https://photos.app.goo.g/mjjNPaz4pYRnSQSX2)
+[Video link](https://photos.app.goo.gl/mjjNPaz4pYRnSQSX2)
