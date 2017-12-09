@@ -21,6 +21,6 @@ This project uses both DC motors and Servo motors to be controlled using touch s
 
 ![C Program Snapshot](https://raw.githubusercontent.com/makaboomguest/roborobo/master/seungho-lee/12-09-2017/doc/c.JPG)
 
-## Videos
+## Video
 
-[![Video Link](https://photos.google.com/u/1/photo/AF1QipNtuaOR-wUcy6-t6Zvu3F8oN22mbd42xXw8tn1G)](https://photos.google.com/u/1/photo/AF1QipNtuaOR-wUcy6-t6Zvu3F8oN22mbd42xXw8tn1G)
+[Demo](https://photos.google.com/u/1/photo/AF1QipNtuaOR-wUcy6-t6Zvu3F8oN22mbd42xXw8tn1G)
