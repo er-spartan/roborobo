@@ -16,14 +16,14 @@ This project uses both DC motors and Servo motors to be controlled using touch s
 I learned about servos and made a claw with two servos. I duplicated a design and found flaws in my program. I had to think about how the servos work and how to program them to the right amount (#).
 
 ## Rogic Program Snapshot
-* ![Rogic Snapshot 1](https://raw.githubusercontent.com/makaboomguest/roborobo/master/eshan-rachapudi/12-09-2017/doc/rpj1.JPG)
-* ![Rogic Snapshot 2](https://raw.githubusercontent.com/makabookguest/roborobo/master/eshan-rachapudi/12-09-2017/doc/rpj2.JPG)
-* ![Rogic Snapshot 3](https://raw.githubusercontent.com/makabookguest/roborobo/master/eshan-rachapudi/12-09-2017/doc/rpj3.JPG)
+
+[Rogic Snapshot 1](https://raw.githubusercontent.com/makaboomguest/roborobo/master/eshan-rachapudi/12-09-2017/doc/rpj1.JPG)
+[Rogic Snapshot 2](https://raw.githubusercontent.com/makaboomguest/roborobo/master/eshan-rachapudi/12-09-2017/doc/rpj2.JPG)
+[Rogic Snapshot 3](https://raw.githubusercontent.com/makaboomguest/roborobo/master/eshan-rachapudi/12-09-2017/doc/rpj3.JPG)
 
 ## Derived C Program Snapshot
 
-
-![C Program Snapshot](https://raw.githubusercontent.com/makabookguest/roborobo/master/eshan-rachapudi/12-09-2017/doc/c.JPG)
+![C Program Snapshot](https://raw.githubusercontent.com/makaboomguest/roborobo/master/eshan-rachapudi/12-09-2017/doc/c.JPG)
 
 ## Videos
 
