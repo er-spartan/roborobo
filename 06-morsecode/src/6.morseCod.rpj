@@ -1,0 +1,48 @@
+RogicCode
+004
+FUNCTION dots
+{
+PORT_ON    1  
+DELAY    0.5
+PORT_OFF    1  
+DELAY    0.5
+
+}
+FUNCTION dashes
+{
+PORT_ON    1  
+DELAY    1.5
+PORT_OFF    1  
+DELAY    0.5
+
+}
+FUNCTION newL
+{
+DELAY    1.5
+
+}
+FUNCTION newW
+{
+DELAY    3.5
+
+}
+MAIN
+{
+    WHILE    
+    {
+    IF     (INPUT_PORT 01)
+    {
+        CALL     dots
+        CALL     dashes
+        CALL     dashes
+        CALL     dashes
+        CALL     newL
+        CALL     dots
+        CALL     dots
+    }
+    ELSE
+    {
+    }
+    }
+
+}
