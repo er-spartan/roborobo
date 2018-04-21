@@ -17,13 +17,13 @@ I learned about servos and made a claw with two servos. I duplicated a design an
 
 ## Rogic Program Snapshot
 
-![Rogic Snapshot 1](https://raw.githubusercontent.com/makaboomguest/roborobo/master/eshan-rachapudi/12-09-2017/doc/rpj1.JPG)
-![Rogic Snapshot 2](https://raw.githubusercontent.com/makaboomguest/roborobo/master/eshan-rachapudi/12-09-2017/doc/rpj2.JPG)
-![Rogic Snapshot 3](https://raw.githubusercontent.com/makaboomguest/roborobo/master/eshan-rachapudi/12-09-2017/doc/rpj3.JPG)
+![Rogic Snapshot 1](https://github.com/makaboomguest/roborobo/tree/master/11-forklift-bot/img/rpj1.JPG)
+![Rogic Snapshot 2](https://github.com/makaboomguest/roborobo/tree/master/11-forklift-bot/img/rpj2.JPG)
+![Rogic Snapshot 3](https://github.com/makaboomguest/roborobo/tree/master/11-forklift-bot/img/rpj3.JPG)
 
 ## Derived C Program Snapshot
 
-![C Program Snapshot](https://raw.githubusercontent.com/makaboomguest/roborobo/master/eshan-rachapudi/12-09-2017/doc/c.JPG)
+![C Program Snapshot](https://github.com/makaboomguest/roborobo/tree/master/11-forklift-bot/img/c.JPG)
 
 ## Videos
 
