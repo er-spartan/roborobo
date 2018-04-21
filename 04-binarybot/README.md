@@ -1,4 +1,4 @@
-# WEEK 4: BinaryBot
+# WEEK 4: BinaryBot 1 
 
 ## Coding Concept
 
